@@ -49,8 +49,8 @@ sqft_living15 : Living room area in 2015(implies-- some renovations) This might 
 
 sqft_lot15 : LotSize area in 2015(implies-- some renovations)
 
-**Question 1
-Display the data types of each column using the attribute dtype, then take a screenshot and submit it, include your code in the image.**
+****Question 1:****
+**Display the data types of each column using the attribute dtype, then take a screenshot and submit it, include your code in the image.**
 
 
 **Question 2: 
